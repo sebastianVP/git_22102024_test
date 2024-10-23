@@ -6,7 +6,7 @@ Pasos a seguir:
 2. El repositorio se encuentra vacio.
 3. Clonar el repositorio en el directorio que el usuario desea.
 
-    *  git cline   https:nombre_del_repositorio.git
+    *  git clone   https:nombre_del_repositorio.git
 
 4. Ubicarsde dentro del directorio con el nombre del repositorio.
 5. Desarrollar el proyecto o generar los archivos.
