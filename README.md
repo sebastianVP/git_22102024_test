@@ -5,6 +5,9 @@ Pasos a seguir:
 1. Crear un repositorio en github.
 2. El repositorio se encuentra vacio.
 3. Clonar el repositorio en el directorio que el usuario desea.
+
+    *  git cline   https:nombre_del_repositorio.git
+
 4. Ubicarsde dentro del directorio con el nombre del repositorio.
 5. Desarrollar el proyecto o generar los archivos.
 6. Dentro del directorio con el nombre del repositorio, utilizar los siguientes comandos
@@ -16,7 +19,7 @@ Pasos a seguir:
     c.  git status
 
     d.  git commit -m "Mi primer commit"
-    
+
     e.  git push
 
 7. Refresar la pagina del repositorio.
