@@ -1,11 +1,12 @@
-# CUANDO TRABAJAMOS CON MULTIPLES USUARIO
+# CUANDO TRABAJAMOS CON MULTIPLES USUARIOs
 
-Siempre trata de revisar la configuracion con el siguiente comando:
+Siempre debenmos revisar la configuracion con el siguiente comando:
 
 $ git config -l
 
 Aqui verificamos que era necesario el cambio de :
-Ejemplo:
+
+- Ejemplo:
 
 * url=https://MichaelDrogalis@github.com/derekerdmann/lunch_call.git
 
@@ -16,7 +17,7 @@ to:
 Esto se puede cambiar con:
 
 
-git remote set-url origin ssh://git@github.com/sebastianVP/git_22102024_test.git
+$ git remote set-url origin ssh://git@github.com/sebastianVP/git_22102024_test.git
 
-UPDATE: 25/10/2024
+* UPDATE: 25/10/2024
 
