@@ -17,3 +17,6 @@ Esto se puede cambiar con:
 
 
 git remote set-url origin ssh://git@github.com/sebastianVP/git_22102024_test.git
+
+UPDATE: 25/10/2024
+
