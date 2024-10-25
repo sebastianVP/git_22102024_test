@@ -44,3 +44,4 @@ git commit -m "1er Comentario"
  git push --set-upstream origin master
 
 
+UPDATE DESDE UBUNTU
