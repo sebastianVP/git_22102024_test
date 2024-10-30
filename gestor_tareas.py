@@ -7,3 +7,7 @@ def listar_tareas():
       print(tarea)
 
 listar_tareas()
+
+def agregar_tarea(nueva_tarea):
+    tareas.append(nueva_tarea)
+    print(f"Tarea{ nueva_tarea} agregada")
