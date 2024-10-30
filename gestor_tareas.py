@@ -7,3 +7,9 @@ def listar_tareas():
       print(tarea)
 
 listar_tareas()
+
+def eliminar_tareas(tarea):
+    if tarea in tareas:
+       tareas.remove(tarea)
+    else:
+       print(f"Tarea {tarea} no encontrada")
