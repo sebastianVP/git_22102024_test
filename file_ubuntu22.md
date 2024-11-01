@@ -6,4 +6,5 @@ A través de la conexion SSH de git y github.
 * Creamos una llave publica y la copiamos en la lista de Llaves SSH de GITHUB.
 * Hemos seguido una serie de comandos para vincular nuestro directorio local con el repositorio remoto.
 
+# SOY EL DESARROLLADO2 en la PC UBUNTU20
 
